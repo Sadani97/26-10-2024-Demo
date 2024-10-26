@@ -1,0 +1,19 @@
+p{
+    background-color: rgb(151, 196, 211);
+    text-align: justify;
+}
+
+h1{
+    background-color: rgb(71, 218, 255);
+    text-align: center;
+
+    margin: 20px;
+
+}
+
+
+p{
+    padding-top: 50px;
+
+    padding-left: 30px;
+}
