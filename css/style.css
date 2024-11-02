@@ -1,20 +1,25 @@
-p{
+.p{
     background-color: rgb(151, 196, 211);
     text-align: justify;
+
+    padding-top: 50px;
+
+    padding-left: 30px;
+
+
+
 }
 
-h1{
+.h1{
     background-color: rgb(71, 218, 255);
     text-align: center;
 
     margin: 20px;
-
 }
 
-
-p{
-    padding-top: 50px;
-
-    padding-left: 30px;
-    
-} 
+#sample-id-selector{
+    background-color: blanchedalmond;
+    text-align: left;
+    font-size: large;
+}
+ 
