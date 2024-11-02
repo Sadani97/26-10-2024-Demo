@@ -2,19 +2,21 @@
     background-color: rgb(151, 196, 211);
     text-align: justify;
 
-    padding-top: 50px;
-
-    padding-left: 30px;
+    padding-left: 50px;
+    padding-right: 80px ;
 
 
 
 }
 
 .h1{
-    background-color: rgb(71, 218, 255);
+    background-color: rgb(135 255 71);
     text-align: center;
 
-    margin: 20px;
+    margin: 50px;
+    
+    padding-top: 50px;
+    padding-bottom: 20px;
 }
 
 #sample-id-selector{
@@ -23,3 +25,13 @@
     font-size: large;
 }
  
+Body{
+    background-image: url(../img/solar\ sys\ background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+legend{
+    color: aqua;  
+}
